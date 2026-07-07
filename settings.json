@@ -8,7 +8,7 @@
   "server": {
     "ip": "smplat4m.aternos.me",
     "port": 21348,
-    "version": "26.1"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": false,
