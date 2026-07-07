@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "bot24h",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "smplat4m.aternos.me",
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "haloque"
     },
     "anti-afk": {
       "enabled": true,
